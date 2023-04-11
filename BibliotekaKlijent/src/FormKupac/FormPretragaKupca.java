@@ -152,7 +152,7 @@ public class FormPretragaKupca extends javax.swing.JDialog {
     }
 
     private void podesiBoje() {
-        jLabel1.setForeground(Color.BLUE);
+        jLabel1.setForeground(Color.BLACK);
         btnDetalji.setForeground(Color.BLACK);
         btnDetalji.setBackground(Color.GREEN);
     }
